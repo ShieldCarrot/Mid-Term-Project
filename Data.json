@@ -1,0 +1,513 @@
+{
+    "1": {
+        "Berlin University of the Arts": [
+            "Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Bielefeld University": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Brandenburg University of Technology": [
+            "Technische Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Braunschweig University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "Bundeswehr University Munich": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "Catholic University of Eichst\u00e4tt-Ingolstadt": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "Chemnitz University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Saxony"
+        ],
+        "Clausthal University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "Darmstadt University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Hesse"
+        ],
+        "Dresden University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Saxony"
+        ],
+        "ESCP Business School": [
+            "Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Free University of Berlin": [
+            "Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Freiberg University of Mining and Technology": [
+            "Technische Universit\u00e4ten",
+            "Saxony"
+        ],
+        "German University of Administrative Sciences Speyer": [
+            "Universit\u00e4ten",
+            "Rhineland-Palatinate"
+        ],
+        "Goethe University of Frankfurt am Main": [
+            "Universit\u00e4ten",
+            "Hesse"
+        ],
+        "HafenCity University Hamburg": [
+            "Universit\u00e4ten",
+            "Hamburg"
+        ],
+        "Hamburg University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Hamburg"
+        ],
+        "Helmut Schmidt University": [
+            "Universit\u00e4ten",
+            "Hamburg"
+        ],
+        "Hertie School of Governance": [
+            "Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Humboldt University of Berlin": [
+            "Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Ilmenau University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Thuringia"
+        ],
+        "Jacobs University Bremen": [
+            "Universit\u00e4ten",
+            "Bremen"
+        ],
+        "Kaiserslautern University of Technology": [
+            "Technische Universit\u00e4ten",
+            "Rhineland-Palatinate"
+        ],
+        "Karlsruhe Institute of Technology": [
+            "Technische Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "Leibniz University Hannover": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "Leuphana University of L\u00fcneburg": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "Ludwig Maximilian University of Munich": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "Ruhr University Bochum": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "RWTH Aachen": [
+            "Technische Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Saarland University": [
+            "Universit\u00e4ten",
+            "Saarland"
+        ],
+        "Technical University of Berlin": [
+            "Technische Universit\u00e4ten",
+            "Berlin"
+        ],
+        "Technical University of Dortmund": [
+            "Technische Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Technical University of Ilmenau": [
+            "Technische Universit\u00e4ten",
+            "Thuringia"
+        ],
+        "Technical University of Munich": [
+            "Technische Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "TU Dortmund University": [
+            "Technische Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Ukrainian Free University Munich": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Augsburg": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Bamberg": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Bayreuth": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Bonn": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Bremen": [
+            "Universit\u00e4ten",
+            "Bremen"
+        ],
+        "University of Cologne": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Duisburg-Essen": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of D\u00fcsseldorf": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Erfurt": [
+            "Universit\u00e4ten",
+            "Thuringia"
+        ],
+        "University of Erlangen-Nuremberg": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Flensburg": [
+            "Universit\u00e4ten",
+            "Schleswig-Holstein"
+        ],
+        "University of Freiburg": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Giessen": [
+            "Universit\u00e4ten",
+            "Hesse"
+        ],
+        "University of G\u00f6ttingen": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "University of Greifswald": [
+            "Universit\u00e4ten",
+            "Mecklenburg-Western Pomerania"
+        ],
+        "University of Hagen": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Halle-Wittenberg": [
+            "Universit\u00e4ten",
+            "Saxony-Anhalt"
+        ],
+        "University of Hamburg": [
+            "Universit\u00e4ten",
+            "Hamburg"
+        ],
+        "University of Heidelberg": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Hildesheim": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "University of Hohenheim": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Jena": [
+            "Universit\u00e4ten",
+            "Thuringia"
+        ],
+        "University of Kassel": [
+            "Universit\u00e4ten",
+            "Hesse"
+        ],
+        "University of Kiel": [
+            "Universit\u00e4ten",
+            "Schleswig-Holstein"
+        ],
+        "University of Koblenz-Landau": [
+            "Universit\u00e4ten",
+            "Rhineland-Palatinate"
+        ],
+        "University of Konstanz": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Leipzig": [
+            "Universit\u00e4ten",
+            "Saxony"
+        ],
+        "University of L\u00fcbeck": [
+            "Universit\u00e4ten",
+            "Schleswig-Holstein"
+        ],
+        "University of Magdeburg": [
+            "Universit\u00e4ten",
+            "Saxony-Anhalt"
+        ],
+        "University of Mainz": [
+            "Universit\u00e4ten",
+            "Rhineland-Palatinate"
+        ],
+        "University of Mannheim": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Marburg": [
+            "Universit\u00e4ten",
+            "Hesse"
+        ],
+        "University of M\u00fcnster": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Oldenburg": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "University of Osnabr\u00fcck": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "University of Paderborn": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Passau": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Potsdam": [
+            "Universit\u00e4ten",
+            "Brandenburg"
+        ],
+        "University of Regensburg": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "University of Rostock": [
+            "Universit\u00e4ten",
+            "Mecklenburg-Western Pomerania"
+        ],
+        "University of Siegen": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of Stuttgart": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Trier": [
+            "Universit\u00e4ten",
+            "Rhineland-Palatinate"
+        ],
+        "University of T\u00fcbingen": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Ulm": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ],
+        "University of Vechta": [
+            "Universit\u00e4ten",
+            "Lower Saxony"
+        ],
+        "University of Weimar": [
+            "Universit\u00e4ten",
+            "Thuringia"
+        ],
+        "University of Wuppertal": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "University of W\u00fcrzburg": [
+            "Universit\u00e4ten",
+            "Bavaria"
+        ],
+        "Viadrina University": [
+            "Universit\u00e4ten",
+            "Brandenburg"
+        ],
+        "Witten/Herdecke University": [
+            "Universit\u00e4ten",
+            "North Rhine-Westphalia"
+        ],
+        "Zeppelin University (Friedrichshafen)": [
+            "Universit\u00e4ten",
+            "Baden-W\u00fcrttemberg"
+        ]
+    },
+    "2": {
+        "Fachhochschulen": [
+            "University of Applied Science",
+            "Fachhochschulen"
+        ],
+        "Kunsthochschulen": [
+            "University of Arts",
+            "Universit\u00e4ten"
+        ],
+        "Musikhochschulen": [
+            "University of Music",
+            "Universit\u00e4ten"
+        ],
+        "P\u00e4dagogische Hochschulen": [
+            "University of Education",
+            "Universit\u00e4ten"
+        ],
+        "Technische Universit\u00e4ten": [
+            "Technical University",
+            "Universit\u00e4ten"
+        ],
+        "Vollniversit\u00e4t": [
+            "University",
+            "Universit\u00e4ten"
+        ]
+    },
+    "3": {
+        "Technical University of Munich": [
+            "Post-graduate",
+            "Master of Education",
+            "Vocational Education Structural Engineering (Teaching at Vocational Schools)"
+        ]
+    },
+    "4": {
+        "Baden-W\u00fcrttemberg": [
+            110.69,
+            350,
+            200,
+            0,
+            18.36
+        ],
+        "Bavaria": [
+            110.69,
+            550,
+            200,
+            0,
+            18.36
+        ],
+        "Berlin": [
+            110.69,
+            350,
+            150,
+            0,
+            18.36
+        ],
+        "Brandenburg": [
+            110.69,
+            350,
+            150,
+            0,
+            18.36
+        ],
+        "Bremen": [
+            110.69,
+            667,
+            330,
+            0,
+            18.36
+        ],
+        "Hamburg": [
+            110.69,
+            500,
+            700,
+            0,
+            18.36
+        ],
+        "Hesse": [
+            110.69,
+            345,
+            250,
+            0,
+            18.36
+        ],
+        "Lower Saxony": [
+            110.69,
+            325,
+            250,
+            0,
+            18.36
+        ],
+        "Mecklenburg-Western Pomerania": [
+            110.69,
+            360,
+            250,
+            0,
+            18.36
+        ],
+        "North Rhine-Westphalia": [
+            110.69,
+            420,
+            400,
+            0,
+            18.36
+        ],
+        "Rhineland-Palatinate": [
+            110.69,
+            300,
+            200,
+            0,
+            18.36
+        ],
+        "Saarland": [
+            110.69,
+            350,
+            200,
+            0,
+            18.36
+        ],
+        "Saxony": [
+            110.69,
+            370,
+            200,
+            0,
+            18.36
+        ],
+        "Saxony-Anhalt": [
+            110.69,
+            290,
+            200,
+            0,
+            18.36
+        ],
+        "Schleswig-Holstein": [
+            110.69,
+            320,
+            200,
+            0,
+            18.36
+        ],
+        "Thuringia": [
+            110.69,
+            285,
+            200,
+            0,
+            18.36
+        ]
+    },
+    "5": {
+        "German Qualification": [
+            0,
+            0
+        ],
+        "Non-EU": [
+            75,
+            30
+        ]
+    }
+}
